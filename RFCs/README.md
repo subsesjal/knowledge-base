@@ -52,7 +52,7 @@ Gracias por estar aquí, estamos muy contentos de que haya decidido crear un RFC
 
 Antes de contribuir al proyecto, asegúrese de leer todos los elementos a continuación.
 
-* [Guía colaboradora](https://github.com/subsesjal/knowledge-base/blob/main/RFCs/CONTRIBUTING.md)
+* [Guía colaboradora](https://github.com/subsesjal/knowledge-base/blob/master/RFCs/CONTRIBUITING.md)
 * [Solicitud de comentarios recursos adicionales](https://www.notion.so/Request-for-comments-RFC-d63f23bf76c44d9aa7c39fed11d84c0f)
 
 ## Inspiración
